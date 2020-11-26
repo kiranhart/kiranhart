@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kiranshart" target="blank"><img src="https://img.shields.io/twitter/follow/kiranshart?logo=twitter&style=for-the-badge" alt="kiranshart" /></a> </p>
 
-- 🌱 I’m currently learning **C, React, Unity**
+- 🌱 I’m currently learning **C, Vue, Unity**
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/kiranhart/](https://www.github.com/kiranhart/)
 
